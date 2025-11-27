@@ -1,2 +1,29 @@
-# supermarket-sales-analysis.
-"A Looker Studio dashboard analyzing retail sales data."
+# Supermarket Sales Analysis Dashboard 🛒
+
+### 📊 [Click om link to View the Live Interactive Dashboard]  -- https://lookerstudio.google.com/reporting/0b6dc279-d8bf-43f2-bcb5-bf27ba9386a8 
+
+![Dashboard Screenshot] <img width="844" height="615" alt="Screenshot 2025-11-27 182153" src="https://github.com/user-attachments/assets/1003b650-f64b-4050-a135-f6cf41fafff6" />
+
+
+
+## 💼 Business Problem
+A supermarket chain with branches in Yangon, Mandalay, and Naypyitaw needed to understand sales trends to optimize their inventory and marketing strategies. The goal was to identify top-performing branches, customer demographics, and peak sales hours.
+
+## 🛠️ The Solution
+I built an interactive dashboard using **Google Looker Studio** to visualize key performance indicators (KPIs) from raw transactional data.
+
+**Key Technical Features:**
+* **Data Cleaning:** Standardized currency and date formats in Google Sheets.
+* **Custom Metrics:** Calculated *Profit Margin* and *Average Transaction Value* using calculated fields.
+* **Interactivity:** Implemented cross-filtering and dropdown controls for City, Gender, and Payment type.
+
+## 💡 Key Insights
+1. **Branch Performance:** Branch A (Yangon) is the highest revenue generator.
+2. **Customer Behavior:** "Member" customers have a significantly higher Average Order Value than "Normal" customers.
+3. **Sales Trends:** The busiest shopping hours are between 7 PM and 9 PM, suggesting a need for increased staff during evening shifts.
+
+## 🏁 Conclusion
+This dashboard allows store managers to make data-driven decisions on staffing and product promotion.
+
+---
+*Created by [Harshraj Suryawanshi]
