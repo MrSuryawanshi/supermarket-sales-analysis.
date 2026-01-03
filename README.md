@@ -1,9 +1,5 @@
 # Supermarket Sales Analysis Dashboard 🛒
 
-### 📊 [Click om link to View the Live Interactive Dashboard]  -- https://lookerstudio.google.com/reporting/0b6dc279-d8bf-43f2-bcb5-bf27ba9386a8 
-
-![Dashboard Screenshot] <img width="844" height="615" alt="Screenshot 2025-11-27 182153" src="https://github.com/user-attachments/assets/1003b650-f64b-4050-a135-f6cf41fafff6" />
-
 
 
 ## 💼 Business Problem
