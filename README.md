@@ -5,7 +5,7 @@
 ## 💼 Business Problem
 A supermarket chain with branches in Yangon, Mandalay, and Naypyitaw needed to understand sales trends to optimize their inventory and marketing strategies. The goal was to identify top-performing branches, customer demographics, and peak sales hours.
 
-## 🛠️ The Solution
+## 🛠️ Takeaway
 I built an interactive dashboard using **Google Looker Studio** to visualize key performance indicators (KPIs) from raw transactional data.
 
 **Key Technical Features:**
